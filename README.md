@@ -1,4 +1,4 @@
-[![Header](https://github.com/tMichae/tMichae/blob/main/assets/header.png)](https://www.youtube.com/channel/UC-9QdPvZSkuNkd0MmJFWz1w)
+[![Header](https://github.com/tMichae/tMichae/blob/main/assets/header.png)](https://github.com/tMichae/tMichae)
 
 ### About me
 
