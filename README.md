@@ -1,4 +1,4 @@
-[![Header](https://github.com/tMichae/tMichae/blob/main/assets/header.png)](https://github.com/tMichae/tMichae)
+[![Header](https://github.com/tMichae/tMichae/blob/main/assets/header.png)](https://www.donationalerts.com/r/tmicha)
 
 ### About me
 
